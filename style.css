@@ -3,8 +3,88 @@ body {
 }
 
 div1 {
-    margin: 0;
-    padding: 0'
+    margin: 0px;
+    padding: 0px;
     position: absolute;
-    
+    top: 198px;
+    left: 825px;
+    right: 355px;
+}
+
+divsearch {
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 350px;
+    left: 885px;
+}
+
+divgoogbuttons {
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 400px;
+    left: 850px;
+}
+a {
+    font-family: arial, sans-serif;
+    color: rgb(55, 55, 56);
+    font-size: 13px;
+    text-decoration: none;
+}
+
+divabout {
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    left: 25px;
+    top: 21px;
+}
+
+divstore {
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    left: 78px;
+    top: 21px;
+}
+
+divgmail{
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    right: 200px;
+    top: 21px;
+}
+
+divimages {
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    right: 141px;
+    top: 21px;
+}
+
+divsignin {
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    right: 45px;
+    top: 10px;
+   
+}
+
+ul {
+    background-color: rgb(241, 240, 240);
+    list-style-type: none;
+    margin: 0px 2px;
+    padding: 20px;
+     
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+li {
+    display: inline;
 }
